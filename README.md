@@ -8,4 +8,4 @@ Flexbox Froggy game for learning CSS
 
 #### My solution
 
-[solution✅]([pu515.github.io/Flexbox_Froggy_game/](https://pu515.github.io/Flexbox_Froggy_game/))
+[solution✅](https://pu515.github.io/Flexbox_Froggy_game/)
